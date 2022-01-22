@@ -85,9 +85,9 @@ author:
   bio              : "Graduate student at the University of Notre Dame"
   location         : "Notre Dame, IN"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jgsS9RAAAAAJ&hl=en"
-  email            :
+  email            : "nkoirala@nd.edu"
   researchgate     : "https://www.researchgate.net/profile/Nirajan-Koirala-2"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "n7koirala/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
