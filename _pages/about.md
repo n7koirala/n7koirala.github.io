@@ -12,11 +12,11 @@ redirect_from:
 
 - I am a member of [Data Security and Privacy Lab (DSP-Lab)](https://sites.nd.edu/dsp-lab/) where we aim to explore and resolve security and privacy issues currently existing in the world of data by performing interdisciplinary research in security, privacy and big data.
 
-- My main research interests lie in the Applied cryptography, including lattice-based cryptography, homomorphic encryption, and quantum cryptography. My latest project focuses on Fully Homomorphic Encryption schemes and their performances. 
+- My main research interests lie in the Applied cryptography, including lattice-based cryptography, homomorphic encryption, and quantum cryptography. My latest project focuses on Fully Homomorphic Encryption schemes and their performances.
 
 # More about me
 
-- Please see my CV [here](https://zeyuthomasliu.github.io/files/CV.pdf) for more details.
+- Please see my CV [here](https://n7koirala.github.io/files/CV_ND_01.pdf) for more details.
 
 # News
 
