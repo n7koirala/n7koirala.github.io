@@ -16,8 +16,9 @@ redirect_from:
 
 # More about me
 
-- Please see my CV [here](https://n7koirala.github.io/files/CV_ND_01.pdf) for more details.
+- Please see my CV [here](https://n7koirala.github.io/files/CV_ND_02.pdf) for more details.
 
 # News
 
 - I received a University fellow [fellowship](https://graduateschool.nd.edu/funding/select-fellowship-recipients/) sponsored by the [Department of Computer Science and Engineering](https://cse.nd.edu/) at Notre Dame to support my Ph.D. studies.
+- Won the Bengal Bouts Boxing tournament 2022 ([Quarterfinal](https://ndsmcobserver.com/2022/03/2022-bengal-bouts-quarterfinals-ring-b-results/), [Semifinal](https://ndsmcobserver.com/2022/03/2022-bengal-bouts-continue-with-semifinals/), [Final](https://ndsmcobserver.com/2022/04/2022-bengal-bouts-winners-crowned-in-purcell/))
