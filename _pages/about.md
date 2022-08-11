@@ -14,6 +14,9 @@ redirect_from:
 
 - My main research interests lie in Applied Cryptography, including lattice-based cryptography, homomorphic encryption, and quantum cryptography. My latest project focuses on Fully Homomorphic Encryption schemes and their performances.
 
+- For the Summer 2022, I am doing an internship at [Intel](https://intel.com) as a homomorphic encryption engineer.
+
+
 # More about me
 
 - Please see my CV [here](https://n7koirala.github.io/files/CV_ND_02.pdf) for more details.
