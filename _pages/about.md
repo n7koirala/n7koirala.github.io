@@ -10,11 +10,11 @@ redirect_from:
 
 - I am a Ph.D. student at the [University of Notre Dame](https://www.nd.edu/), where I am fortunate to be advised by Prof. [Taeho Jung](https://sites.nd.edu/taeho-jung/).
 
-- I am a member of [Data Security and Privacy Lab (DSP-Lab)](https://sites.nd.edu/dsp-lab/) where we aim to explore and resolve security and privacy issues currently existing in the world of data by performing interdisciplinary research in security, privacy and big data.
+- At Notre Dame, I'm in [Data Security and Privacy Lab (DSP-Lab)](https://sites.nd.edu/dsp-lab/) where we aim to explore and resolve security and privacy issues currently existing in the world of data by performing interdisciplinary research in security, privacy and big data.
 
 - My main research interests lie in Applied Cryptography, including lattice-based cryptography, homomorphic encryption, and quantum cryptography. My latest project focuses on Fully Homomorphic Encryption schemes and their performances.
 
-- For the Summer 2022, I am doing an internship at [Intel](https://intel.com) as a homomorphic encryption engineer.
+- For the Summer 2022, I completed an internship at [Intel](https://intel.com) as a homomorphic encryption engineer.
 
 
 # More about me
