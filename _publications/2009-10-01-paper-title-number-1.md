@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Summation-based Private Segmented Membership Test from Threshold-Fully Homomorphic Encryption"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-07-15-private-segmented-membership-test
+excerpt: ‘This paper introduces a novel Private Segmented Membership Test (PSMT) protocol utilizing threshold-based homomorphic encryption, enabling secure queries across multiple data holders without compromising privacy.’
+date: 2024
+venue: ‘Privacy Enhancing Technologies 2024’
+paperurl: ‘https://eprint.iacr.org/2024/753.pdf’
+citation: ‘Nirajan Koirala, Jonathan Takeshita, Jeremy Stevens, Taeho Jung. (2024). "Summation-based Private Segmented Membership Test from Threshold-Fully Homomorphic Encryption." Privacy Enhancing Technologies 2024.’
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+This paper introduces the concept of Private Segmented Membership Test (PSMT), designed to allow clients to securely verify the membership of an element within segmented data sets distributed across multiple data holders. It addresses shortcomings in prior methods such as Private Set Intersection (PSI), Multi-Party PSI (MPSI), and Private Membership Test (PMT), including plaintext dependency, high latency, and data leakage. By leveraging a summation-based threshold homomorphic encryption mechanism, our approach supports a significantly higher number of data holders (up to 4096 in experiments) while ensuring no leakage about the intersection party and eliminating false positives.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://eprint.iacr.org/2024/753.pdf)
+
+Recommended citation: Nirajan Koirala, Jonathan Takeshita, Jeremy Stevens, Taeho Jung. (2024). “Summation-based Private Segmented Membership Test from Threshold-Fully Homomorphic Encryption.” Privacy Enhancing Technologies 2024.
+
