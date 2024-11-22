@@ -3,7 +3,7 @@ title: "Summation-based Private Segmented Membership Test from Threshold-Fully H
 collection: publications
 permalink: /publication/2024-07-15-private-segmented-membership-test
 excerpt: ‘This paper introduces a novel Private Segmented Membership Test (PSMT) protocol utilizing threshold-based homomorphic encryption, enabling secure queries across multiple data holders without compromising privacy.’
-date: 2024
+date: 2024-07-15
 venue: ‘Privacy Enhancing Technologies 2024’
 paperurl: ‘https://eprint.iacr.org/2024/753.pdf’
 citation: ‘Nirajan Koirala, Jonathan Takeshita, Jeremy Stevens, Taeho Jung. (2024). "Summation-based Private Segmented Membership Test from Threshold-Fully Homomorphic Encryption." Privacy Enhancing Technologies 2024.’
