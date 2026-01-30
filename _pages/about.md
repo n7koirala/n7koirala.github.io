@@ -19,7 +19,7 @@ redirect_from:
 
 # More about me
 
-- Please see my CV [here](https://n7koirala.github.io/files/CV_ND_02.pdf) for more details.
+- Please see my CV [here](https://n7koirala.github.io/files/CV_ND_03.pdf) for more details.
 
 # News
 
