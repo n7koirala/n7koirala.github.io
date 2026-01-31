@@ -14,7 +14,7 @@ redirect_from:
 
 - My main research interests lie in Applied Cryptography, including lattice-based cryptography, homomorphic encryption, and trusted execution environments (TEEs).
 
-- As of 2026, I am working on a heterogeneous trusted-computing framework that uses process-based TEEs (e.g., Intel SGX) as a control plane to orchestrate and attest fleets of VM-based TEEs (e.g., Intel TDX, AMD SEV-SNP) connected to Nvidia CC enabled GPUs (e.g., H100, H200), targeting scalable remote attestation and a better trust model for the end-users.
+- As of 2026, I am working on a heterogeneous trusted-computing framework that uses process-based TEEs (e.g., Intel SGX) as a control plane to orchestrate and attest fleets of VM-based TEEs (e.g., Intel TDX, AMD SEV-SNP) connected to NVIDIA CC enabled GPUs (e.g., H100, H200), targeting scalable remote attestation and a better trust model for the end-users.
 
 - During the summer of 2025 and 2024, I guided rising sophomores at Notre Dame during the [CSE Summer Enrichment Program](https://sites.google.com/nd.edu/csesummer2024/home) for projects utilizing Intel SGX and Fully Homomorphic Encryption (FHE) for key generation and distribution and secure data collection and privacy-preserving analytics.
 
